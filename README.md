@@ -6,4 +6,5 @@
 - lista elem
   1. lista elem
 [Ez egy link](https://www.youtube.com/)
-'alert(Valamiiiiii);'
+alert(Valamiiiiii);
+  
